@@ -6,7 +6,7 @@ author:
     corresponding: true
     email: first@example.com
     affiliations:
-      - name: My University
+      - name: ETH Zürich
   - name: Till Häussner
     orcid: 0009-0005-7617-9312
     email: second@example.com
