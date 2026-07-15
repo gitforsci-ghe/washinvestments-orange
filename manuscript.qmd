@@ -7,7 +7,7 @@ author:
     email: first@example.com
     affiliations:
       - name: My University
-  - name: Second Author
+  - name: Till Häussner
     orcid: 0000-0000-0000-0000
     email: second@example.com
     affiliations:
